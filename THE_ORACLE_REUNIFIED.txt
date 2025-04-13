@@ -1,0 +1,61 @@
+
+
+###CONVERS SEUL:
+
+source voice_assistant_env/bin/activate
+cd /home/pi5/THE_ORACLE_REUNIFIED
+python3 CONVERS.py
+
+
+###LANCER ORACLE:
+
+source voice_assistant_env/bin/activate
+cd /home/pi5/THE_ORACLE_REUNIFIED
+python3 Convers_Server.py
+
+#autre termianal:
+
+source voice_assistant_env/bin/activate
+cd /home/pi5/THE_ORACLE_REUNIFIED
+python main.py
+
+sudo python3 test4us_with_dmx_copy.py
+
+
+
+
+
+
+
+
+
+
+
+
+###   Lancement convers_ia.py
+source voice_assistant_env/bin/activate
+cd /home/pi5/THE_ORACLE_UNIFIED
+sudo python3 test4us_with_dmx_copy.py
+sudo /home/pi5/THE_ORACLE/venv/bin/python /home/pi5/THE_ORACLE/convers_ia.py
+
+
+
+
+
+./start_oracle.sh
+
+/home/pi5/THE_ORACLE/start_oracle.sh
+
+
+cd /home/pi5/THE_ORACLE_UNIFIED
+source venv/bin/activate
+sudo python3 main.py
+
+
+Si vous utilisez un environnement virtuel 
+et que vous lancez le script avec sudo,
+ il se peut que sudo n'utilise pas votre environnement virtuel, 
+ce qui pourrait expliquer l'erreur. 
+Dans ce cas, installez les packages de manière globale ou utilisez :
+
+sudo $(which python3) oracle.py
