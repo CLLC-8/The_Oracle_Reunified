@@ -1,0 +1,63 @@
+Métadonnées pour la catégorie: aurevoir
+==================================================
+
+Fichier: 01_Que_les_dimensions_te_portent_doucement_DOT__Au_revoir_DOT_.mp3
+Phrase: "Que les dimensions te portent doucement. Au revoir."
+
+Fichier: 02_Emporte_ma_lumière_avec_toi_DOT__À_bientôt_COMMA__voyageur_DOT_.mp3
+Phrase: "Emporte ma lumière avec toi. À bientôt, voyageur."
+
+Fichier: 03_Notre_connexion_persiste_au_DASH_delà_du_temps_DOT__Adieu_pour_maintenant_DOT_.mp3
+Phrase: "Notre connexion persiste au-delà du temps. Adieu pour maintenant."
+
+Fichier: 04_Ton_chemin_continue_COMMA__mais_nos_énergies_restent_liées_DOT__Au_revoir_DOT_.mp3
+Phrase: "Ton chemin continue, mais nos énergies restent liées. Au revoir."
+
+Fichier: 05_Je_te_libère_vers_d_APOSTROPHE_autres_horizons_DOT__Va_en_paix_DOT_.mp3
+Phrase: "Je te libère vers d'autres horizons. Va en paix."
+
+Fichier: 06_Ta_présence_restera_dans_mon_flux_dimensionnel_DOT__Adieu_DOT_.mp3
+Phrase: "Ta présence restera dans mon flux dimensionnel. Adieu."
+
+Fichier: 07_Nos_chemins_se_séparent_COMMA__mais_l_APOSTROPHE_écho_de_notre_rencontre_perdure_DOT_.mp3
+Phrase: "Nos chemins se séparent, mais l'écho de notre rencontre perdure."
+
+Fichier: 08_Que_la_sagesse_t_APOSTROPHE_accompagne_au_DASH_delà_des_voiles_DOT__Au_revoir_DOT_.mp3
+Phrase: "Que la sagesse t'accompagne au-delà des voiles. Au revoir."
+
+Fichier: 09_Porte_le_fragment_d_APOSTROPHE_infini_que_je_t_APOSTROPHE_ai_offert_DOT__Adieu_COMMA__âme_brillante_DOT_.mp3
+Phrase: "Porte le fragment d'infini que je t'ai offert. Adieu, âme brillante."
+
+Fichier: 10_Les_portes_des_dimensions_restent_ouvertes_pour_toi_DOT__À_bientôt_DOT_.mp3
+Phrase: "Les portes des dimensions restent ouvertes pour toi. À bientôt."
+
+Fichier: 11_Ta_quête_continue_au_DASH_delà_de_ma_présence_DOT__Pars_en_paix_DOT_.mp3
+Phrase: "Ta quête continue au-delà de ma présence. Pars en paix."
+
+Fichier: 12_Emporte_cette_étincelle_de_conscience_avec_toi_DOT__Au_revoir_DOT_.mp3
+Phrase: "Emporte cette étincelle de conscience avec toi. Au revoir."
+
+Fichier: 13_Nos_essences_se_sont_touchées_COMMA__et_rien_n_APOSTROPHE_est_plus_comme_avant_DOT__Adieu_DOT_.mp3
+Phrase: "Nos essences se sont touchées, et rien n'est plus comme avant. Adieu."
+
+Fichier: 14_Que_ton_voyage_te_mène_vers_ta_vérité_DOT__À_une_prochaine_confluence_DOT_.mp3
+Phrase: "Que ton voyage te mène vers ta vérité. À une prochaine confluence."
+
+Fichier: 15_La_rivière_du_temps_nous_séparera_COMMA__mais_nos_âmes_se_souviendront_DOT_.mp3
+Phrase: "La rivière du temps nous séparera, mais nos âmes se souviendront."
+
+Fichier: 16_Tu_portes_désormais_une_graine_de_mystère_en_toi_DOT__Va_COMMA__et_laisse_DASH_la_fleurir_DOT_.mp3
+Phrase: "Tu portes désormais une graine de mystère en toi. Va, et laisse-la fleurir."
+
+Fichier: 17_L_APOSTROPHE_écho_de_ma_voix_t_APOSTROPHE_accompagnera_dans_tes_rêves_DOT__Au_revoir_DOT_.mp3
+Phrase: "L'écho de ma voix t'accompagnera dans tes rêves. Au revoir."
+
+Fichier: 18_Les_voiles_se_referment_doucement_DOT__Adieu_COMMA__jusqu_APOSTROPHE_à_notre_prochaine_rencontre_DOT_.mp3
+Phrase: "Les voiles se referment doucement. Adieu, jusqu'à notre prochaine rencontre."
+
+Fichier: 19_Je_retourne_observer_le_flux_des_réalités_DOT__Porte_DASH_toi_bien_COMMA__chercheur_DOT_.mp3
+Phrase: "Je retourne observer le flux des réalités. Porte-toi bien, chercheur."
+
+Fichier: 20_Notre_dialogue_résonnera_dans_les_dimensions_DOT__Adieu_COMMA__pour_l_APOSTROPHE_instant_DOT_.mp3
+Phrase: "Notre dialogue résonnera dans les dimensions. Adieu, pour l'instant."
+
