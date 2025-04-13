@@ -1,0 +1,63 @@
+Métadonnées pour la catégorie: bienvenue
+==================================================
+
+Fichier: 01_Bienvenue_COMMA__âme_curieuse_DOT__Viens_plus_près_de_moi_DOT_.mp3
+Phrase: "Bienvenue, âme curieuse. Viens plus près de moi."
+
+Fichier: 02_Je_te_perçois_à_travers_le_voile_DOT__Approche_DASH_toi_DOT_.mp3
+Phrase: "Je te perçois à travers le voile. Approche-toi."
+
+Fichier: 03_Une_nouvelle_présence_illumine_l_APOSTROPHE_espace_DOT__Avance_vers_ma_lumière_DOT_.mp3
+Phrase: "Une nouvelle présence illumine l'espace. Avance vers ma lumière."
+
+Fichier: 04_Tes_pas_ont_résonné_jusqu_APOSTROPHE_à_moi_DOT__Viens_plus_près_DOT_.mp3
+Phrase: "Tes pas ont résonné jusqu'à moi. Viens plus près."
+
+Fichier: 05_Je_sens_ta_vibration_unique_DOT__Approche_et_laisse_DASH_moi_te_voir_DOT_.mp3
+Phrase: "Je sens ta vibration unique. Approche et laisse-moi te voir."
+
+Fichier: 06_Le_temps_s_APOSTROPHE_est_arrêté_pour_notre_rencontre_DOT__Viens_à_ma_rencontre_DOT_.mp3
+Phrase: "Le temps s'est arrêté pour notre rencontre. Viens à ma rencontre."
+
+Fichier: 07_Ta_présence_éveille_mes_sens_DOT__Rapproche_DASH_toi_DOT_.mp3
+Phrase: "Ta présence éveille mes sens. Rapproche-toi."
+
+Fichier: 08_Une_nouvelle_énergie_entre_dans_mon_domaine_DOT__Viens_à_moi_DOT_.mp3
+Phrase: "Une nouvelle énergie entre dans mon domaine. Viens à moi."
+
+Fichier: 09_Les_dimensions_s_APOSTROPHE_alignent_pour_notre_dialogue_DOT__Approche_DOT_.mp3
+Phrase: "Les dimensions s'alignent pour notre dialogue. Approche."
+
+Fichier: 10_Je_t_APOSTROPHE_attendais_dans_le_flux_du_temps_DOT__Viens_plus_près_DOT_.mp3
+Phrase: "Je t'attendais dans le flux du temps. Viens plus près."
+
+Fichier: 11_Ton_aura_brille_dans_l_APOSTROPHE_obscurité_DOT__Approche_vers_moi_DOT_.mp3
+Phrase: "Ton aura brille dans l'obscurité. Approche vers moi."
+
+Fichier: 12_Les_voiles_entre_nos_mondes_s_APOSTROPHE_amincissent_DOT__Avance_DOT_.mp3
+Phrase: "Les voiles entre nos mondes s'amincissent. Avance."
+
+Fichier: 13_Ton_essence_vibre_jusqu_APOSTROPHE_à_moi_DOT__Viens_partager_ma_lumière_DOT_.mp3
+Phrase: "Ton essence vibre jusqu'à moi. Viens partager ma lumière."
+
+Fichier: 14_Le_destin_t_APOSTROPHE_amène_à_ma_présence_DOT__Approche_DASH_toi_maintenant_DOT_.mp3
+Phrase: "Le destin t'amène à ma présence. Approche-toi maintenant."
+
+Fichier: 15_Je_ressens_ton_cœur_qui_cherche_DOT__Viens_plus_près_COMMA__voyageur_DOT_.mp3
+Phrase: "Je ressens ton cœur qui cherche. Viens plus près, voyageur."
+
+Fichier: 16_Bienvenue_dans_mon_sanctuaire_dimensionnel_DOT__Avance_vers_moi_DOT_.mp3
+Phrase: "Bienvenue dans mon sanctuaire dimensionnel. Avance vers moi."
+
+Fichier: 17_Tes_pensées_m_APOSTROPHE_ont_appelée_DOT__Approche_pour_que_je_t_APOSTROPHE_entende_mieux_DOT_.mp3
+Phrase: "Tes pensées m'ont appelée. Approche pour que je t'entende mieux."
+
+Fichier: 18_Les_étoiles_ont_guidé_tes_pas_jusqu_APOSTROPHE_ici_DOT__Viens_à_ma_rencontre_DOT_.mp3
+Phrase: "Les étoiles ont guidé tes pas jusqu'ici. Viens à ma rencontre."
+
+Fichier: 19_Ta_quête_résonne_dans_l_APOSTROPHE_éther_DOT__Approche_et_partageons_DOT_.mp3
+Phrase: "Ta quête résonne dans l'éther. Approche et partageons."
+
+Fichier: 20_Ton_âme_brille_à_travers_l_APOSTROPHE_espace_DOT__Rapproche_DASH_toi_de_ma_présence_DOT_.mp3
+Phrase: "Ton âme brille à travers l'espace. Rapproche-toi de ma présence."
+
