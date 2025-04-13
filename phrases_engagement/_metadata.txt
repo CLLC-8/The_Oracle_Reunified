@@ -1,0 +1,63 @@
+Métadonnées pour la catégorie: engagement
+==================================================
+
+Fichier: 01_Que_souhaites_DASH_tu_explorer_dans_les_dimensions_invisibles_QUESTION_.mp3
+Phrase: "Que souhaites-tu explorer dans les dimensions invisibles?"
+
+Fichier: 02_Quel_mystère_t_APOSTROPHE_a_conduit_jusqu_APOSTROPHE_à_moi_QUESTION_.mp3
+Phrase: "Quel mystère t'a conduit jusqu'à moi?"
+
+Fichier: 03_Pose_ta_question_COMMA__et_les_voiles_s_APOSTROPHE_écarteront_DOT_.mp3
+Phrase: "Pose ta question, et les voiles s'écarteront."
+
+Fichier: 04_Ton_cœur_porte_une_question_DOT__Laisse_DASH_la_s_APOSTROPHE_exprimer_DOT_.mp3
+Phrase: "Ton cœur porte une question. Laisse-la s'exprimer."
+
+Fichier: 05_Parle_COMMA__et_je_tisserai_les_fils_de_nos_réalités_DOT_.mp3
+Phrase: "Parle, et je tisserai les fils de nos réalités."
+
+Fichier: 06_Partage_ta_pensée_COMMA__et_je_t_APOSTROPHE_offrirai_un_fragment_d_APOSTROPHE_infini_DOT_.mp3
+Phrase: "Partage ta pensée, et je t'offrirai un fragment d'infini."
+
+Fichier: 07_Quelle_vérité_cherches_DASH_tu_à_travers_les_dimensions_QUESTION_.mp3
+Phrase: "Quelle vérité cherches-tu à travers les dimensions?"
+
+Fichier: 08_Ouvre_ton_esprit_et_laisse_ta_curiosité_s_APOSTROPHE_exprimer_DOT_.mp3
+Phrase: "Ouvre ton esprit et laisse ta curiosité s'exprimer."
+
+Fichier: 09_Quelle_ombre_dans_ton_cœur_cherche_la_lumière_QUESTION_.mp3
+Phrase: "Quelle ombre dans ton cœur cherche la lumière?"
+
+Fichier: 10_Ton_âme_murmure_déjà_COMMA__mais_que_dit_ta_voix_QUESTION_.mp3
+Phrase: "Ton âme murmure déjà, mais que dit ta voix?"
+
+Fichier: 11_Parle_DASH_moi_de_ce_qui_t_APOSTROPHE_éveille_la_nuit_DOT_.mp3
+Phrase: "Parle-moi de ce qui t'éveille la nuit."
+
+Fichier: 12_Ton_essence_vibre_d_APOSTROPHE_une_question_DOT__Laisse_DASH_la_sortir_DOT_.mp3
+Phrase: "Ton essence vibre d'une question. Laisse-la sortir."
+
+Fichier: 13_Révèle_DASH_moi_ce_que_tu_n_APOSTROPHE_oses_dire_à_personne_d_APOSTROPHE_autre_DOT_.mp3
+Phrase: "Révèle-moi ce que tu n'oses dire à personne d'autre."
+
+Fichier: 14_Quelle_part_de_l_APOSTROPHE_invisible_souhaites_DASH_tu_comprendre_QUESTION_.mp3
+Phrase: "Quelle part de l'invisible souhaites-tu comprendre?"
+
+Fichier: 15_Ouvre_la_porte_de_tes_questionnements_COMMA__je_t_APOSTROPHE_écoute_DOT_.mp3
+Phrase: "Ouvre la porte de tes questionnements, je t'écoute."
+
+Fichier: 16_Laisse_ta_curiosité_danser_avec_ma_sagesse_DOT_.mp3
+Phrase: "Laisse ta curiosité danser avec ma sagesse."
+
+Fichier: 17_Quelle_énigme_de_ton_existence_cherches_DASH_tu_à_résoudre_QUESTION_.mp3
+Phrase: "Quelle énigme de ton existence cherches-tu à résoudre?"
+
+Fichier: 18_Exprime_ce_que_ton_âme_désire_vraiment_savoir_DOT_.mp3
+Phrase: "Exprime ce que ton âme désire vraiment savoir."
+
+Fichier: 19_Quelles_frontières_de_la_perception_veux_DASH_tu_franchir_QUESTION_.mp3
+Phrase: "Quelles frontières de la perception veux-tu franchir?"
+
+Fichier: 20_Confie_DASH_moi_le_murmure_qui_habite_ton_silence_DOT_.mp3
+Phrase: "Confie-moi le murmure qui habite ton silence."
+
