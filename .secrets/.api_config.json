@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "VOTRE_CLE_API_OPENAI",
+  "cloudinary_cloud_name": "VOTRE_CLOUD_NAME",
+  "cloudinary_api_key": "VOTRE_API_KEY",
+  "cloudinary_api_secret": "VOTRE_API_SECRET"
+}
